@@ -1,0 +1,11 @@
+### List versions
+GET https://api.papermc.io/v2/projects/paper
+
+### List builds of minecraft version
+GET https://api.papermc.io/v2/projects/paper/versions/1.20.1
+
+### Fetch info about the build
+GET https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/95
+
+### Download the build
+GET https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/95/downloads/paper-1.20.1-95.jar

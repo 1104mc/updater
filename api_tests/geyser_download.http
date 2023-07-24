@@ -1,0 +1,5 @@
+### Fetch latest geyser build
+GET https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest
+
+### Download latest geyser build
+GET https://download.geysermc.org/v2/projects/geyser/versions/2.1.1/builds/242/downloads/standalone
